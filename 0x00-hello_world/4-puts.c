@@ -5,7 +5,7 @@
  *
  * Description: Using the main function to print a content
  * The program that print "Programming is like building a multilingual puzzle"
- * return 0
+ * Return: 0
  */
 int main(void) 
 {
