@@ -1,4 +1,3 @@
-#!/bin/bash
 #include <stdio.h>
 /** main : script that prints content using the puts function
  *
