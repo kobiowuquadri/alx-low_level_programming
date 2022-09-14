@@ -27,7 +27,6 @@ if (result <= 9)
 _putchar(' ');
 if (result >= 100)
 {
-
 _putchar((result  100) + '0');
 _putchar((result / 10) % 10 + '0');
 }
