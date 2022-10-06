@@ -58,6 +58,6 @@ char *argstostr(int ac, char **av)
 		}
 		s[k++] = '\n';
 	}
-
 	return (s);
+
 }	
